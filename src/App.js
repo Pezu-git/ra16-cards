@@ -15,13 +15,13 @@ export default function App() {
         <CardText>Создавать интерактивные пользовательские интерфейсы на React — приятно и просто. 
           Вам достаточно описать, как части интерфейса приложения выглядят в разных состояниях. 
           React будет своевременно их обновлять, когда данные изменяются.</CardText>
-        <Button>Button 1</Button>
+        <Button>More information</Button>
       </Card>
       <Card>
         <CardTitle>Основан на компонентах</CardTitle>
         <CardText>Создавайте инкапсулированные компоненты с собственным состоянием, 
           а затем объединяйте их в сложные пользовательские интерфейсы.</CardText>
-        <Button>Button 2</Button>
+        <Button>More information</Button>
       </Card>
     </div>
   );
